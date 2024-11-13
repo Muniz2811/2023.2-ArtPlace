@@ -8,7 +8,7 @@ ArtPlace é um projeto criado para a disciplina Requisitos de Software da univer
 Para entender melhor o nosso projeto e acessar o git pages clique [Aqui](https://mdsreq-fga-unb.github.io/2023.2-ArtPlace/).
 
 ## Menção final 
-???
+MS
 
 
 ## 👥 Equipe de Colaboradores
